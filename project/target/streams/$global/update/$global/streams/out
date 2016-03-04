@@ -1,4 +1,4 @@
-[info] Updating {file:/Users/wave/Documents/scala/simple-r-in-scala/project/}simple-r-in-scala-build...
+[info] Updating {file:/Users/wave/Github/simple-r-in-scala/project/}simple-r-in-scala-build...
 [debug] :: resolving dependencies :: default#simple-r-in-scala-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies for default#simple-r-in-scala-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#simple-r-in-scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37768bba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@749e9f3b
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -1766,19 +1766,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1733ms :: artifacts dl 52ms
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT compile produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-compile.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT runtime produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-runtime.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT test produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-test.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT provided produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-provided.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT optional produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-optional.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT compile-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-compile-internal.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT runtime-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-runtime-internal.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT test-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-test-internal.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT plugin produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-plugin.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT sources produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-sources.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT docs produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-docs.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT pom produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-pom.xml
-[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT scala-tool produced in /Users/wave/Documents/scala/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-scala-tool.xml
-[debug] 	resolve done (1733ms resolve - 52ms download)
+[debug] :: resolution report :: resolve 1607ms :: artifacts dl 58ms
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT compile produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-compile.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT runtime produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-runtime.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT test produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-test.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT provided produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-provided.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT optional produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-optional.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT compile-internal produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-compile-internal.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT runtime-internal produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-runtime-internal.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT test-internal produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-test-internal.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT plugin produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-plugin.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT sources produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-sources.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT docs produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-docs.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT pom produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-pom.xml
+[debug] 	report for default#simple-r-in-scala-build;0.1-SNAPSHOT scala-tool produced in /Users/wave/Github/simple-r-in-scala/project/target/resolution-cache/reports/default-simple-r-in-scala-build-scala-tool.xml
+[debug] 	resolve done (1607ms resolve - 58ms download)
 [info] Done updating.

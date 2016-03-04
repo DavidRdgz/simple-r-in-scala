@@ -8,7 +8,7 @@
 [debug] == resolving dependencies for default#simple-r-in-scala$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a077c1a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60c957ef
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -17,7 +17,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.10 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.11;0.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74a2baab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33add207
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.11;0.10
 [debug] 	found org.scalanlp#breeze_2.11;0.10 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.10 [compile->runtime]
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze_2.11;0.10 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.3.1 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.11;0.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@101b01ac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49445666
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.11;0.3.1
 [debug] 	found org.scalanlp#breeze-macros_2.11;0.3.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.3.1 [compile->runtime]
@@ -33,7 +33,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.3.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@529cb0eb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@556ff3
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.0
 [debug] 	found org.scala-lang#scala-reflect;2.11.0 in sbt-chain
 [debug] 	[2.11.0] org.scala-lang#scala-reflect;2.11.0
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.0 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1175e475
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48ec47f9
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -50,7 +50,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44afb4d0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13b5df2d
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -58,7 +58,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f2db1a9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c8d991e
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -66,7 +66,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->junit#junit;4.8.2 [compile->default(compile)]
 [info] Resolving junit#junit;4.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fba1e0b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39f99156
 [debug] sbt-chain: module revision found in cache: junit#junit;4.8.2
 [debug] 	found junit#junit;4.8.2 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->junit#junit;4.8.2 [compile->runtime]
@@ -74,7 +74,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->junit#junit;4.8.2 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.apache.commons#commons-math3;3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@513c7106
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59b5b5fb
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.2
 [debug] 	found org.apache.commons#commons-math3;3.2 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.apache.commons#commons-math3;3.2 [compile->runtime]
@@ -82,7 +82,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.apache.commons#commons-math3;3.2 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@694d27dc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6baeb7a0
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.11;0.7.4
 [debug] 	found org.spire-math#spire_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->runtime]
@@ -90,7 +90,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6976c3e3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3208dc5f
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.11;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->runtime]
@@ -98,7 +98,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e600693
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75c41d04
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.5
 [debug] 	found org.slf4j#slf4j-api;1.7.5 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->runtime]
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze-natives_2.11;0.10 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-natives_2.11;0.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b125cc4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72d7a800
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-natives_2.11;0.10
 [debug] 	found org.scalanlp#breeze-natives_2.11;0.10 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze-natives_2.11;0.10 [compile->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scalanlp#breeze-natives_2.11;0.10 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2662de85
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e233fe
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 [compile->runtime]
@@ -122,7 +122,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#native_ref-java;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#native_ref-java;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c4b4b89
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38b8fb4
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref-java;1.1
 [debug] 	found com.github.fommil.netlib#native_ref-java;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#native_ref-java;1.1 [compile->runtime]
@@ -130,7 +130,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#native_ref-java;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil#jniloader;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil#jniloader;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2401cbb1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1eb2717f
 [debug] sbt-chain: module revision found in cache: com.github.fommil#jniloader;1.1
 [debug] 	found com.github.fommil#jniloader;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil#jniloader;1.1 [compile->runtime]
@@ -138,7 +138,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil#jniloader;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61b97818
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10d5a4c2
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 [compile->runtime]
@@ -146,7 +146,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@628b160d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dba2730
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 [compile->runtime]
@@ -154,7 +154,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c472081
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c8168ba
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 [compile->runtime]
@@ -162,7 +162,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@661c8b19
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54fa3dd1
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_ref-win-i686;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 [compile->runtime]
@@ -170,7 +170,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5220c687
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b0139b0
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 [compile->runtime]
@@ -178,7 +178,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@626668e9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5eb793fa
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 [compile->runtime]
@@ -186,7 +186,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#native_system-java;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#native_system-java;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@145c216a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32e4e2ee
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system-java;1.1
 [debug] 	found com.github.fommil.netlib#native_system-java;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#native_system-java;1.1 [compile->runtime]
@@ -194,7 +194,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#native_system-java;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2672ca24
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3aad0484
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 [compile->runtime]
@@ -202,7 +202,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75f23f28
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b9acd11
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_system-linux-i686;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 [compile->runtime]
@@ -210,7 +210,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@242a7def
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ae4c688
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 [compile->runtime]
@@ -218,7 +218,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40dcd143
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c618034
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 [compile->runtime]
@@ -226,7 +226,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-win-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e3b00a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43e00462
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#netlib-native_system-win-i686;1.1
 [debug] 	found com.github.fommil.netlib#netlib-native_system-win-i686;1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-i686;1.1 [compile->runtime]
@@ -234,7 +234,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-i686;1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-saddle#saddle-core_2.11;1.3.4 [compile->default(compile)]
 [info] Resolving org.scala-saddle#saddle-core_2.11;1.3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71cd86ba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33149198
 [debug] sbt-chain: module revision found in cache: org.scala-saddle#saddle-core_2.11;1.3.4
 [debug] 	found org.scala-saddle#saddle-core_2.11;1.3.4 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-saddle#saddle-core_2.11;1.3.4 [compile->runtime]
@@ -242,7 +242,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-saddle#saddle-core_2.11;1.3.4 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->joda-time#joda-time;2.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10803b82
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d99f007
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.1
 [debug] 	found joda-time#joda-time;2.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->joda-time#joda-time;2.1 [compile->runtime]
@@ -250,7 +250,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->joda-time#joda-time;2.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.joda#joda-convert;1.2 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32790a61
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f886708
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.2
 [debug] 	found org.joda#joda-convert;1.2 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.joda#joda-convert;1.2 [compile->runtime]
@@ -258,7 +258,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.joda#joda-convert;1.2 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-saddle#google-rfc-2445;20110304 [compile->default(compile)]
 [info] Resolving org.scala-saddle#google-rfc-2445;20110304 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4595ef2d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a28e4a4
 [debug] sbt-chain: module revision found in cache: org.scala-saddle#google-rfc-2445;20110304
 [debug] 	found org.scala-saddle#google-rfc-2445;20110304 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-saddle#google-rfc-2445;20110304 [compile->runtime]
@@ -266,7 +266,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.scala-saddle#google-rfc-2445;20110304 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.19 [compile->default(compile)]
 [info] Resolving com.googlecode.efficient-java-matrix-library#ejml;0.19 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@751818aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73486bdc
 [debug] sbt-chain: module revision found in cache: com.googlecode.efficient-java-matrix-library#ejml;0.19
 [debug] 	found com.googlecode.efficient-java-matrix-library#ejml;0.19 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.19 [compile->runtime]
@@ -274,7 +274,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.googlecode.efficient-java-matrix-library#ejml;0.19 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.apache.commons#commons-math;2.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fc6436e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fc92c65
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.2
 [debug] 	found org.apache.commons#commons-math;2.2 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.apache.commons#commons-math;2.2 [compile->runtime]
@@ -282,7 +282,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->org.apache.commons#commons-math;2.2 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->it.unimi.dsi#fastutil;6.5.4 [compile->default(compile)]
 [info] Resolving it.unimi.dsi#fastutil;6.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74a1af5c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cb5db0
 [debug] sbt-chain: module revision found in cache: it.unimi.dsi#fastutil;6.5.4
 [debug] 	found it.unimi.dsi#fastutil;6.5.4 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->it.unimi.dsi#fastutil;6.5.4 [compile->runtime]
@@ -290,7 +290,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->it.unimi.dsi#fastutil;6.5.4 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->it.unimi.dsi#dsiutils;2.0.15 [compile->default(compile)]
 [info] Resolving it.unimi.dsi#dsiutils;2.0.15 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d466a29
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c292cf9
 [debug] sbt-chain: module revision found in cache: it.unimi.dsi#dsiutils;2.0.15
 [debug] 	found it.unimi.dsi#dsiutils;2.0.15 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->it.unimi.dsi#dsiutils;2.0.15 [compile->runtime]
@@ -298,7 +298,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->it.unimi.dsi#dsiutils;2.0.15 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.google.guava#guava;14.0-rc3 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;14.0-rc3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c31a83d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@585697b8
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;14.0-rc3
 [debug] 	found com.google.guava#guava;14.0-rc3 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.google.guava#guava;14.0-rc3 [compile->runtime]
@@ -306,7 +306,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->com.google.guava#guava;14.0-rc3 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->ch.qos.logback#logback-classic;1.0.9 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.0.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66898ac6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b0011d5
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.0.9
 [debug] 	found ch.qos.logback#logback-classic;1.0.9 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->ch.qos.logback#logback-classic;1.0.9 [compile->runtime]
@@ -314,7 +314,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->ch.qos.logback#logback-classic;1.0.9 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->ch.qos.logback#logback-core;1.0.9 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.0.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b43a272
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@92702e2
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.0.9
 [debug] 	found ch.qos.logback#logback-core;1.0.9 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->ch.qos.logback#logback-core;1.0.9 [compile->runtime]
@@ -322,7 +322,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->ch.qos.logback#logback-core;1.0.9 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c4d16b4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41fa16c6
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->runtime]
@@ -330,7 +330,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-configuration#commons-configuration;1.8 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ed54ea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@102ef7ef
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.8
 [debug] 	found commons-configuration#commons-configuration;1.8 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-configuration#commons-configuration;1.8 [compile->runtime]
@@ -338,7 +338,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-configuration#commons-configuration;1.8 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54459de
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3278b31b
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.6
 [debug] 	found commons-lang#commons-lang;2.6 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->runtime]
@@ -346,7 +346,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-lang#commons-lang;2.6 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20a75e7b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a77013f
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
@@ -354,7 +354,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76fc8d26
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70a4674d
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -362,7 +362,7 @@
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a2dadfc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@271b9020
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies default#simple-r-in-scala$sources_2.11;1.0->commons-collections#commons-collections;3.2.1 [compile->runtime]
@@ -3296,7 +3296,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 2788ms :: artifacts dl 6559ms
+[debug] :: resolution report :: resolve 2133ms :: artifacts dl 8028ms
 [warn] 	::::::::::::::::::::::::::::::::::::::::::::::
 [warn] 	::              FAILED DOWNLOADS            ::
 [warn] 	:: ^ see resolution messages for details  ^ ::
@@ -3314,17 +3314,17 @@
 [warn] 	:: com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.jar
 [warn] 	:: com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.jar
 [warn] 	::::::::::::::::::::::::::::::::::::::::::::::
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 compile produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-compile.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 runtime produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-runtime.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 test produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-test.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 provided produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-provided.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 optional produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-optional.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 compile-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-compile-internal.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 runtime-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-runtime-internal.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 test-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-test-internal.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 plugin produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-plugin.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 sources produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-sources.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 docs produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-docs.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 pom produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-pom.xml
-[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 scala-tool produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-scala-tool.xml
-[debug] 	resolve done (2788ms resolve - 6559ms download)
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 compile produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-compile.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 runtime produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-runtime.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 test produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-test.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 provided produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-provided.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 optional produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-optional.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 compile-internal produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-compile-internal.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 runtime-internal produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-runtime-internal.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 test-internal produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-test-internal.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 plugin produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-plugin.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 sources produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-sources.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 docs produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-docs.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 pom produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-pom.xml
+[debug] 	report for default#simple-r-in-scala$sources_2.11;1.0 scala-tool produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala$sources_2.11-scala-tool.xml
+[debug] 	resolve done (2133ms resolve - 8028ms download)

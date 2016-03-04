@@ -1,4 +1,4 @@
-[info] Updating {file:/Users/wave/Documents/scala/simple-r-in-scala/}simple-r-in-scala...
+[info] Updating {file:/Users/wave/Github/simple-r-in-scala/}simple-r-in-scala...
 [debug] :: resolving dependencies :: default#simple-r-in-scala_2.11;1.0
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -7,7 +7,7 @@
 [debug] == resolving dependencies for default#simple-r-in-scala_2.11;1.0 [compile]
 [debug] == resolving dependencies default#simple-r-in-scala_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1680ccd8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ce0ead1
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -212,7 +212,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1!netlib-native_ref-osx-x86_64.pom(pom.original) (274ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1!netlib-native_ref-osx-x86_64.pom(pom.original) (354ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -234,7 +234,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-java;1.1!native_ref-java.pom(pom.original) (237ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-java;1.1!native_ref-java.pom(pom.original) (341ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -270,7 +270,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1!netlib-native_ref-linux-x86_64.pom(pom.original) (242ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1!netlib-native_ref-linux-x86_64.pom(pom.original) (304ms)
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref-xbuilds;1.1 {}
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
@@ -284,7 +284,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_ref-xbuilds/1.1/native_ref-xbuilds-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_ref-xbuilds/1.1/native_ref-xbuilds-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/native_ref-xbuilds/1.1/native_ref-xbuilds-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-xbuilds;1.1!native_ref-xbuilds.pom(pom.original) (235ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-xbuilds;1.1!native_ref-xbuilds.pom(pom.original) (338ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -319,7 +319,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1!netlib-native_ref-linux-i686.pom(pom.original) (260ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1!netlib-native_ref-linux-i686.pom(pom.original) (317ms)
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref-xbuilds;1.1
@@ -345,7 +345,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1!netlib-native_ref-win-x86_64.pom(pom.original) (251ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1!netlib-native_ref-win-x86_64.pom(pom.original) (318ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -371,7 +371,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-i686;1.1!netlib-native_ref-win-i686.pom(pom.original) (257ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-i686;1.1!netlib-native_ref-win-i686.pom(pom.original) (290ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -397,7 +397,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1!netlib-native_ref-linux-armhf.pom(pom.original) (244ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1!netlib-native_ref-linux-armhf.pom(pom.original) (362ms)
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref-xbuilds;1.1
@@ -423,7 +423,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1!netlib-native_system-osx-x86_64.pom(pom.original) (255ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1!netlib-native_system-osx-x86_64.pom(pom.original) (274ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -445,7 +445,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-java;1.1!native_system-java.pom(pom.original) (245ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-java;1.1!native_system-java.pom(pom.original) (287ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -475,7 +475,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1!netlib-native_system-linux-x86_64.pom(pom.original) (247ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1!netlib-native_system-linux-x86_64.pom(pom.original) (309ms)
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system-xbuilds;1.1 {}
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
@@ -489,7 +489,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_system-xbuilds/1.1/native_system-xbuilds-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/native_system-xbuilds/1.1/native_system-xbuilds-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/native_system-xbuilds/1.1/native_system-xbuilds-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-xbuilds;1.1!native_system-xbuilds.pom(pom.original) (251ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-xbuilds;1.1!native_system-xbuilds.pom(pom.original) (341ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -524,7 +524,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-i686;1.1!netlib-native_system-linux-i686.pom(pom.original) (272ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-i686;1.1!netlib-native_system-linux-i686.pom(pom.original) (277ms)
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system-xbuilds;1.1
@@ -550,7 +550,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1!netlib-native_system-linux-armhf.pom(pom.original) (275ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1!netlib-native_system-linux-armhf.pom(pom.original) (303ms)
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system-xbuilds;1.1
@@ -576,7 +576,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.pom(pom.original) (266ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.pom(pom.original) (274ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -602,7 +602,7 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.pom(pom.original) (259ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.pom(pom.original) (299ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -3224,19 +3224,19 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(bundle)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar
-[debug] :: resolution report :: resolve 12002ms :: artifacts dl 51ms
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 compile produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-compile.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 runtime produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-runtime.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 test produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-test.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 provided produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-provided.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 optional produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-optional.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 compile-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-compile-internal.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 runtime-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-runtime-internal.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 test-internal produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-test-internal.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 plugin produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-plugin.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 sources produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-sources.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 docs produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-docs.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 pom produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-pom.xml
-[debug] 	report for default#simple-r-in-scala_2.11;1.0 scala-tool produced in /Users/wave/Documents/scala/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-scala-tool.xml
-[debug] 	resolve done (12002ms resolve - 51ms download)
+[debug] :: resolution report :: resolve 17762ms :: artifacts dl 36ms
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 compile produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-compile.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 runtime produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-runtime.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 test produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-test.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 provided produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-provided.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 optional produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-optional.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 compile-internal produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-compile-internal.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 runtime-internal produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-runtime-internal.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 test-internal produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-test-internal.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 plugin produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-plugin.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 sources produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-sources.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 docs produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-docs.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 pom produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-pom.xml
+[debug] 	report for default#simple-r-in-scala_2.11;1.0 scala-tool produced in /Users/wave/Github/simple-r-in-scala/target/resolution-cache/reports/default-simple-r-in-scala_2.11-scala-tool.xml
+[debug] 	resolve done (17762ms resolve - 36ms download)
 [info] Done updating.

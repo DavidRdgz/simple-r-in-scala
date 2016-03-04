@@ -4,7 +4,7 @@
 		module="simple-r-in-scala-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20160304134123"
+		publication="20160304140143"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

@@ -2,9 +2,9 @@
 quick simple intro to using r in scala. basically, getting and setting objects need to be in an Array[T] with T = {Int, Double, String}.
 
 # Usage
-These samples are to introduce you to working with R in Scala. There are a variety of reasons for doing this. But perhaps quickly prototyping an idea is the main reason.
+Quick introduction to working with R in Scala. There are a variety of reasons for doing this but perhaps the biggest reason is quickly prototyping an idea stands out.
 
-Ther are trade-offs, though. For example, your data may best be described as a data-frame with a variety of types such as Int, Doubles, and Strings. From my experience you will need to pass in these types as String and reconvert once the data frame is in R. Examples 5 & 6 show how to deal with this.
+There are trade-offs, though. For example, your data may best be described as a data-frame with a variety of types such as Int, Doubles, and Strings. From my experience you will need to pass in these types as String and re-convert things once the data frame is in R. Examples 5 & 6 show how to deal with this.
 
 # RinScala1
 
